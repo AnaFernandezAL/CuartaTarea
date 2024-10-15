@@ -414,7 +414,7 @@ width: 350px;
 
 .pie-contacto{
     color: #dcdfe4;
-    width: 800px;
+    width: 400px;
     padding-top: 35px;
     padding-left: 40px;
 }
@@ -536,6 +536,7 @@ width: 350px;
     }
 
     .Carousel .Texto .container{
+        border: #111111 solid 1px;
         width: 300px;
     }
 
